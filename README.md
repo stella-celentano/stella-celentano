@@ -7,7 +7,7 @@
 - Estudante de Análise e Desenvolvimento de Sistemas;
 - Integrante da família GPES (Grupo de Pesquisa em Engenharia de Software);
 - Fascinada pela área de desenvolvimento, apesar dos perrengues :sweat_smile:;
-- No momento estou em busca de uma oportunidade de emprego para aprimorar ainda mais meus conhecimentos! :computer:
+- Em busca de uma oportunidades para aprimorar meus conhecimentos! :computer:
 
 ### :pushpin: Habilidades Técnicas
 - JavaScript, TypeScript
