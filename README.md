@@ -2,9 +2,12 @@
 
 # :heart: Bem-vindo(a)! 
 
-## Stella P. Celentano ✨
-Oie :wave:, tenho 20 anos, sou estudante de Análise e Desenvolvimento de Sistemas, faço parte da família GPES (Grupo de Pesquisa em Engenharia de Software) e sou fascinada pela área de desenvolvimento, apesar dos perrengues :sweat_smile:. 
-<br/>No momento estou em busca de uma oportunidade de emprego para aprimorar ainda mais meus conhecimentos! :computer:
+## Oie, meu nome é Stella P. Celentano ✨
+- 20 anos;
+- Estudante de Análise e Desenvolvimento de Sistemas;
+- Integrante da família GPES (Grupo de Pesquisa em Engenharia de Software);
+- Fascinada pela área de desenvolvimento, apesar dos perrengues :sweat_smile:;
+- No momento estou em busca de uma oportunidade de emprego para aprimorar ainda mais meus conhecimentos! :computer:
 
 ### :pushpin: Habilidades Técnicas
 - JavaScript, TypeScript
