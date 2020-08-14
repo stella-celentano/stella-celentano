@@ -7,7 +7,6 @@
 - Estudante de Análise e Desenvolvimento de Sistemas;
 - Integrante da família GPES (Grupo de Pesquisa em Engenharia de Software);
 - Fascinada pela área de desenvolvimento, apesar dos perrengues :sweat_smile:;
-- Em busca de uma oportunidades para aprimorar meus conhecimentos! :computer:
 
 ### :pushpin: Habilidades Técnicas
 - JavaScript, TypeScript
@@ -16,6 +15,9 @@
 - SQL Server, MySQL
 - Git, GitHub
 - Scrum 
+
+### 🗂️ Projetos
+- Asilo Web
 
 ### :pencil: Contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/stella-celentano)
