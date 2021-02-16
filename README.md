@@ -3,7 +3,7 @@
 # :heart: Bem-vindo(a)! 
 
 ## Oie, meu nome é Stella P. Celentano ✨
-- 20 anos;
+- 21 anos;
 - Estudante de Análise e Desenvolvimento de Sistemas;
 - Integrante da família GPES (Grupo de Pesquisa em Engenharia de Software);
 - Fascinada pela área de desenvolvimento, apesar dos perrengues :sweat_smile:;
